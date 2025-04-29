@@ -1,0 +1,15 @@
+{
+  "name": "minecraft-bot-openrouter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "mineflayer": "^4.5.0",
+    "mineflayer-pathfinder": "^1.5.1",
+    "openai": "^4.17.0",
+    "vec3": "^0.1.7"
+  }
+}
