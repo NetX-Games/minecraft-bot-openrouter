@@ -98,7 +98,7 @@ function createBot() {
         return;
       }
 
-      // HuggingFace AI reply
+      // HuggingFace AI reply using google/flan-t5-large
       const response = await axios.post(
         "https://api-inference.huggingface.co/models/google/flan-t5-large",
         { inputs: message },
