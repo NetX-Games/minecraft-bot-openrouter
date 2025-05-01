@@ -1,1 +1,1 @@
-# minecraft-bot-openrouter
+# minecraft-bot-huggingface
